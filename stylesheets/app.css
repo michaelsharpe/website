@@ -7302,3 +7302,8 @@ a.th {
 .f-dropdown.large {
   max-width: 800px;
 }
+
+/* line 1, ../sass/_custom.scss */
+#head-center {
+  align: center;
+}
